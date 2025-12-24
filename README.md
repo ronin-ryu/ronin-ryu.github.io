@@ -2,7 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io-live-blue)](https://ronin-ryu.github.io)
 
-<img src="https://raw.githubusercontent.com/ronin-ryu/ronin-ryu/main/Ronin-Ryu_Protoinstitute_LOGO3D_copyright.png" alt="R³P Logo" width="50%" height="50%">
+<img src="Ronin-Ryu_Protoinstitute_LOGO3D_copyright.png" alt="R³P Logo" width="50%" height="50%">
 
 ## RŌNIN-RYŪ
 <strong>
@@ -26,7 +26,7 @@ Updated December, 2025
 - **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
 - **Dec 2025**: R³P status established.
  <br/>  
-<img src="https://github.com/ronin-ryu/ronin-ryu/blob/main/RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
+<img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
 Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
 <br>
 <ul>
