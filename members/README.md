@@ -1,6 +1,7 @@
 # R³P: Affiliated Members
 
 [![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io-live-blue)](https://ronin-ryu.github.io)
+[![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io/members-live-yellow)](https://ronin-ryu.github.io/members)
 
 Updated December, 2025:
 
