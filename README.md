@@ -27,6 +27,7 @@ Updated December, 2025
 - **Dec 2025**: R³P status established.
  <br/>  
 <img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
+
 Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
 <br>
 <ul>
