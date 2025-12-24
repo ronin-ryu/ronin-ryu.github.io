@@ -7,7 +7,7 @@ Updated December, 2025:
 
 <br>
 
-[Dr. Thaícia Stona de Almeida](thaicia)
+[Dr. Thaícia Stona de Almeida](thaicia/)
   
 [Dr. Mona Cara Wells](monawells/)
 
