@@ -6,8 +6,8 @@ Updated December, 2025
 
 <br>
 <ul>
-  <li> [Dr. Thaícia Stona de Almeida](thaicia/)</li>
-  <li> [Dr. Mona Cara Wells](monawells/)</li>
+  <li> [Dr. Thaícia Stona de Almeida](members/thaicia)</li>
+  <li> [Dr. Mona Cara Wells](members/monawells/)</li>
 </ul> 
 <br/>
 
