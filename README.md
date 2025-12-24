@@ -24,7 +24,6 @@ The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-resea
 
 <br>
 
-## Affiliated Members
 
 ## [Affiliated Members](members/)
 Updated December, 2025
