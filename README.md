@@ -16,6 +16,16 @@
 ## Origins
 The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-research institute dedicated to independent multidisciplinary scholarship. Constituted in April 2024 as Rōnin Ryū Research Initiative, it was inspired by the model and mission of the original [Ronin Institute](https://web.archive.org/web/20240430102250/https://ronininstitute.org/) for Independent Scholarship (2012–2024). As a distinct entity, R³P represents an independent pathway for research, separate from the member-cooperative [RIIS 2.0](https://ronininstitute.org/), founded in April 2025. R³P evolved December 2025 to the status of proto-institution.
 
+**R³P Goals:**
+- Support flexible, independent scholarship
+- Explore research without bureaucratic limitations or "KPI gaming"
+- Experiment with research output formats beyond traditional publications
+- Recognize andragogy and community as pillars of excellent research—with respect and freedom
+
+<br>
+
+## Affiliated Members
+
 ## [Affiliated Members](members/)
 Updated December, 2025
 - **Dr. Thaicia Stona de Almeida**, Founder, Researcher [🎓](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2RSlU2AAAAAJ&pagesize=80&sortby=pubdate)
