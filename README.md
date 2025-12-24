@@ -1,4 +1,4 @@
-# R³P: Ronin Ryu Research Protoinstitute
+# R³P: Rōnin-Ryū Research Protoinstitute
 
 [![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io-live-blue)](https://ronin-ryu.github.io)
 
