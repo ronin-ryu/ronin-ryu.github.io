@@ -5,13 +5,12 @@
 <img src="Ronin-Ryu_Protoinstitute_LOGO3D_copyright.png" alt="R³P Logo" width="50%" height="50%">
 
 ## RŌNIN-RYŪ
-<strong>
+
 
 [ro·nin] /ˈrōnən/ : Samurai without a master
 
 [ry·u] / rēˈo͞o/ : Dragon; Academy, way, discipline
 
-</strong>
 
 
 ## Origins
