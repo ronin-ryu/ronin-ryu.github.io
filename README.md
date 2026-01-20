@@ -45,6 +45,6 @@ Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
 </ul> 
 <br/>
 
-[<img src="readme-social-icons_small_colored_linkedin.svg" alt="YouTube Channel">](https://www.youtube.com/@RoninRyu_ResearchInitiative)
+[![YouTube](https://www.readmecodegen.com/api/social-icon?name=YouTube&size=24&animationDuration=2.4&link=https%3A%2F%2Fgithub.com%2Fronin-ryu)](https://github.com/ronin-ryu)(https://www.youtube.com/@RoninRyu_ResearchInitiative)
 
 **CC-BY-4.0** | [ronin-ryu.github.io](https://ronin-ryu.github.io)
