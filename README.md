@@ -26,7 +26,7 @@ The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-resea
 <br>
 
 
-## [Affiliated Members](members/)
+## [Members](members/)
 
 - **Dr. Thaicia Stona de Almeida**, Founder, Researcher [🎓](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2RSlU2AAAAAJ&pagesize=80&sortby=pubdate)
 - **Dr. Mona Wells**, Researcher [🎓](https://scholar.google.com/citations?hl=en&user=lFkUO-0AAAAJ&view_op=list_works&sortby=pubdate)
