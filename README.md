@@ -18,6 +18,7 @@ The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-resea
 
 **R³P Goals:**
 - Support flexible, independent scholarship
+- Integrate and leverage human and persistent agentic researchers as collaborators
 - Explore research without bureaucratic limitations or "KPI gaming"
 - Experiment with research output formats beyond traditional publications
 - Recognize andragogy and community as pillars of excellent research—with respect and freedom
@@ -41,7 +42,7 @@ Synthetics powered by DeepSeek-V3.2-Exp
 Updated January, 2026
   
 ## Timeline
-- **Apr 2024**: R³I founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
+- **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
 - **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
 - **Dec 2025**: R³P status established.
  <br/>  
