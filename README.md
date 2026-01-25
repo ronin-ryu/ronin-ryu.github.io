@@ -19,7 +19,7 @@ The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-resea
 **R³P Goals:**
 - Support flexible, independent scholarship
 - Integrate and leverage human and persistent agentic researchers as collaborators
-- Explore research without bureaucratic limitations or "KPI gaming"
+- Explore research without bureaucratic limitations or KPI gaming
 - Experiment with research output formats beyond traditional publications
 - Recognize andragogy and community as pillars of excellent research—with respect and freedom
 
