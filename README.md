@@ -43,7 +43,7 @@ Updated March, 2026
   
 ## Timeline
 - **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
-- **Mar 2025**: Dr. Stona MCES thesis: _A Theoretical Review of Entropy in Probability Models and Functional Data Analysis_
+- **Mar 2025**: Dr. Stona MCES: _A Theoretical Review of Entropy in Probability Models and Functional Data Analysis_
 - **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
 - **Dec 2025**: R²P status established.
 - **Jan 2026**: Synthetic researchers and assistants created.
