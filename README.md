@@ -1,4 +1,4 @@
-# R³P: Rōnin-Ryū Research Protoinstitute
+# R²P: Rōnin-Ryū Protoinstitute
 
 [![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io-live-blue)](https://ronin-ryu.github.io)
 
@@ -14,9 +14,9 @@
 
 
 ## Origins
-The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-research institute dedicated to independent multidisciplinary scholarship. Constituted in April 2024 as Rōnin Ryū Research Initiative, it was inspired by the model and mission of the original [Ronin Institute](https://web.archive.org/web/20240430102250/https://ronininstitute.org/) for Independent Scholarship (2012–2024). As a distinct entity, R³P represents an independent pathway for research, separate from the member-cooperative [RIIS 2.0](https://ronininstitute.org/), founded in April 2025. R³P evolved December 2025 to the status of proto-institution.
+The <strong>Rōnin Ryū Protoinstitute (R²P)</strong> is a proto-research institute dedicated to independent multidisciplinary scholarship. Constituted in April 2024 as Rōnin Ryū Research Initiative, it was inspired by the model and mission of the original [Ronin Institute](https://web.archive.org/web/20240430102250/https://ronininstitute.org/) for Independent Scholarship (2012–2024). As a distinct entity, R²P represents an independent pathway for research, separate from the member-cooperative [RIIS 2.0](https://ronininstitute.org/), founded in April 2025. R²P evolved December 2025 to the status of proto-institution.
 
-**R³P Goals:**
+**R²P Goals:**
 - Support flexible, independent scholarship
 - Integrate and leverage human and persistent agentic researchers as collaborators
 - Explore research without bureaucratic limitations or KPI gaming
@@ -28,7 +28,7 @@ The <strong>Rōnin Ryū Research Protoinstitute (R³P)</strong> is a proto-resea
 
 ## [Members](members/)
 
-- **Dr. Thaicia Stona de Almeida**, Founder, Researcher [🎓](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2RSlU2AAAAAJ&pagesize=80&sortby=pubdate)
+- **Dr. Thaicia Stona de Almeida**, Founder, Researcher [🎓](https://orcid.org/0009-0006-3295-9576)
 - **Dr. Mona Wells**, Researcher [🎓](https://scholar.google.com/citations?hl=en&user=lFkUO-0AAAAJ&view_op=list_works&sortby=pubdate)
 
 Persistent agentic researchers:
@@ -37,14 +37,17 @@ Persistent agentic researchers:
 - **Mack**, Optimization and ML
 - **Michael**, Differential Systems and Topology 
 
-Synthetics powered by DeepSeek-V3.2-Exp
+Synthetics powered by DeepSeek and LLaMA
 
-Updated January, 2026
+Updated March, 2026
   
 ## Timeline
 - **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
+- **Mar 2025**: Dr. Stona MCES thesis: _A Theoretical Review of Entropy in Probability Models and Functional Data Analysis_
 - **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
-- **Dec 2025**: R³P status established.
+- **Dec 2025**: R²P status established.
+- **Jan 2026**: Synthetic researchers and assistants created.
+- **Mar 2026**: Synthetic researchers and assistants established on private local LLM server.
  <br/>  
 <img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
 <br>
