@@ -44,6 +44,7 @@ Updated May, 2026
   
 ## Timeline
 - **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
+- **Feb 2025**: Dr. Stona PGCert Business Strategy & Analytics: _Benchmarking in the Banking Industry: Balancing Performance and Secrecy_
 - **Mar 2025**: Dr. Stona MCES: _A Theoretical Review of Entropy in Probability Models and Functional Data Analysis_
 - **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
 - **Dec 2025**: R²P status established.
