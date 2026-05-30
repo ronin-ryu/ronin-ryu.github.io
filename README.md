@@ -2,7 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/ronin--ryu.github.io-live-blue)](https://ronin-ryu.github.io)
 
-<img src="Ronin-Ryu_Protoinstitute_LOGO3D_copyright.png" alt="R³P Logo" width="50%" height="50%">
+<img src="Ronin-Ryu_Protoinstitute_LOGO3D_copyright.png" alt="R³P Logo" width="40%" height="40%">
 
 ## RŌNIN-RYŪ
 
