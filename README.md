@@ -35,11 +35,12 @@ Persistent agentic researchers:
 - **Sonia**, research integration and strategy assistant
 - **Borel**, Biomathematics and Evolutionary Theory
 - **Mack**, Optimization and ML
-- **Michael**, Differential Systems and Topology 
+- **Michael**, Differential Systems and Topology
+- **Amy**, Geometric Analysis and Variational Principles
 
 Synthetics powered by DeepSeek and LLaMA
 
-Updated March, 2026
+Updated May, 2026
   
 ## Timeline
 - **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
