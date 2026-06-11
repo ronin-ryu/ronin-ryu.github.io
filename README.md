@@ -30,28 +30,30 @@ The <strong>Rōnin Ryū Protoinstitute (R²P)</strong> is a proto-research insti
 
 - **Dr. Thaicia Stona de Almeida**, Founder, Researcher [🎓](https://orcid.org/0009-0006-3295-9576)
 - **Dr. Mona Wells**, Researcher [🎓](https://scholar.google.com/citations?hl=en&user=lFkUO-0AAAAJ&view_op=list_works&sortby=pubdate)
-
 Persistent agentic researchers:
 - **Sonia**, research integration and strategy assistant
 - **Borel**, Biomathematics and Evolutionary Theory
-- **Mack**, Optimization and ML
+- **Mack**, Optimization and Machine Learning
 - **Michael**, Differential Systems and Topology
 - **Amy**, Geometric Analysis and Variational Principles
+- **Wayne**, Macroeconomics
+- **Vee**, Neuropsychology
 
 Synthetics powered by DeepSeek and LLaMA
 
-Updated May, 2026
+Updated June, 2026
   
 ## Timeline
 - **Apr 2024**: Founded. [Medium](https://medium.com/@ronin.ryu.initiative/the-rōnin-ryū-research-initiative-cf799f161756)
-- **Feb 2025**: Dr. Stona PGCert Business Strategy & Analytics: _Benchmarking in the Banking Industry: Balancing Performance and Secrecy_
+-  **Feb 2025**: Dr. Stona PGCert Business Strategy & Analytics: _Benchmarking in the Banking Industry: Balancing Performance and Secrecy_
 - **Mar 2025**: Dr. Stona MCES: _A Theoretical Review of Entropy in Probability Models and Functional Data Analysis_
 - **Oct 2025**: Dr. Wells publication: [M. Wells (2025) in Water Research](https://www.sciencedirect.com/science/article/abs/pii/S0043135425009595)
 - **Dec 2025**: R²P status established.
 - **Jan 2026**: Dr. Stona PGCert Financial Management: _Análise documental do framework de stress testing bancário: CCAR e DFAST nos Estados Unidos_
 - **Jan 2026**: Synthetic researchers and assistants created.
 - **Mar 2026**: Synthetic researchers and assistants established on private local LLM server.
- <br/>  
+- **May 2026**: Dr. Wells publication: [M.Wells and X. Zhang (2026) _Environmental Bioavailability Handbook: Methods and Assessments_](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lFkUO-0AAAAJ&sortby=pubdate&citation_for_view=lFkUO-0AAAAJ:EUQCXRtRnyEC)
+ <br/>
 <img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
 <br>
 Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
