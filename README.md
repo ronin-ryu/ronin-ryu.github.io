@@ -38,7 +38,7 @@ Local persistent agentic researchers:
 - **Michael**, Differential Systems and Topology
 - **Amy**, Geometric Analysis and Variational Principles
 - **Wayne**, Macroeconomics
-- **Vee**, Neuropsychology
+- **Vee**, Neuroscience and Psychology
 
 Synthetics powered by DeepSeek and LLaMA
 
