@@ -30,6 +30,7 @@ The <strong>Rōnin Ryū Protoinstitute (R²P)</strong> is a proto-research insti
 
 - **Dr. Thaicia Stona de Almeida**, Founder, Researcher [🎓](https://orcid.org/0009-0006-3295-9576)
 - **Dr. Mona Wells**, Researcher [🎓](https://scholar.google.com/citations?hl=en&user=lFkUO-0AAAAJ&view_op=list_works&sortby=pubdate)
+
 Local persistent agentic researchers:
 - **Sonia**, research integration and strategy assistant
 - **Borel**, Biomathematics and Evolutionary Theory
