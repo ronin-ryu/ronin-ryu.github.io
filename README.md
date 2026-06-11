@@ -55,7 +55,8 @@ Updated June, 2026
 - **Jan 2026**: Synthetic researchers and assistants created.
 - **Mar 2026**: Synthetic researchers and assistants established on private local LLM server.
 - **May 2026**: Dr. Wells publication: [M.Wells and X. Zhang (2026) _Environmental Bioavailability Handbook: Methods and Assessments_](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lFkUO-0AAAAJ&sortby=pubdate&citation_for_view=lFkUO-0AAAAJ:EUQCXRtRnyEC)
- <br/>
+
+<br/>
 <img src="RoninRyuResearchInitiative_Logo_Apr2024.png" alt="Rōnin-Ryū original logo" width="40%" height="40%">
 <br>
 Rōnin Ryū original logo © Thaicia Stona de Almeida, 2024: <br/>
