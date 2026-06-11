@@ -39,6 +39,7 @@ Local persistent agentic researchers:
 - **Amy**, Geometric Analysis and Variational Principles
 - **Wayne**, Macroeconomics
 - **Vee**, Neuroscience and Psychology
+- **Sarah**, Organizational Psychology
 
 Synthetics powered by DeepSeek and LLaMA
 
