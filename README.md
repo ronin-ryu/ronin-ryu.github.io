@@ -34,7 +34,7 @@ The <strong>Rōnin Ryū Protoinstitute (R²P)</strong> is a proto-research insti
 Local persistent agentic researchers:
 - **Sonia**, research integration and strategy assistant
 - **Borel**, Biomathematics and Evolutionary Theory
-- **Mack**, Optimization and Machine Learning
+- **Mack**, Optimization, AI and ML
 - **Michael**, Differential Systems and Topology
 - **Amy**, Geometric Analysis and Variational Principles
 - **Wayne**, Macroeconomics
